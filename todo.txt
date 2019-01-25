@@ -1,0 +1,3 @@
+1. Make state based bot with the following states: attacking, defending, idling, passing
+2. Implement NEAT in tensorflow and train all 4 states into 4 different ML models
+3. Hard code logic to determine which model to use in real time during game
